@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-     - name: step 1, Greet
+     - name: step 1, NewOnne
        run: echo ${{secrets.KEY}}
 
      - name: step 2
